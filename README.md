@@ -1,4 +1,4 @@
-# Glad You are here, I'm Phu  👋
+# Hi Mate, glad You are here, I'm Phu  👋
 
 
 - 👋 Formerly vacation employee at DCDD Department, Northern Territory Government 
@@ -16,7 +16,7 @@ Portfolio projects: https://phuphan13.github.io/index.html
 <br />
 
 # Languages and Tools:
-
+Programming with Microsoft platform, Python, SQL, PowerBI
 <br />
 
 
