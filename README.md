@@ -1,4 +1,4 @@
-# Hi Mate, glad You are here, I'm Phu  👋
+# G'day Mate, glad you are here, I'm Phu  👋
 
 
 - 👋 Formerly vacation employee at DCDD Department, Northern Territory Government 
