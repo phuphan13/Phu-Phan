@@ -11,8 +11,8 @@
 * Bachelor of Information System at <a href="https://www.ueh.edu.vn/">University of Economics of Ho Chi Minh city, Vietnam</a>
 
 # Connect with me:
-https://www.linkedin.com/in/phu-phan-02665b209
-
+LinkedIn: https://www.linkedin.com/in/phu-phan-02665b209 <br/>
+Portfolio projects: https://phuphan13.github.io/index.html
 <br />
 
 # Languages and Tools:
