@@ -1,4 +1,4 @@
-# "Glad You are here, I'm Phu  👋
+# Glad You are here, I'm Phu  👋
 
 
 
@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Denis-Tojaga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Phu Phan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="denza.17 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <img align="left" alt="Denis Tojaga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
@@ -47,7 +47,7 @@
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Denis-Tojaga&color=blueviolet)
-[linkedin]: https://www.linkedin.com/in/phu-phan-02665b209
+[linkedin]:(https://www.linkedin.com/in/phu-phan-02665b209)
 
 
 
