@@ -14,13 +14,12 @@
 
 # Education
 * Master of Data Science at <a href="https://www.cdu.edu.au/">Charles Darwin University, Northern Territory, Australia</a>
-* Bachelor of Information System at <a href="https://fit.ba/">University of Economics of Hoc Chi Minh city, Vietnam</a>
+* Bachelor of Information System at <a href="https://www.ueh.edu.vn/">University of Economics of Ho Chi Minh city, Vietnam</a>
 
 ### Connect with me:
 
 [<img align="left" alt="Phu Phan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="denza.17 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img align="left" alt="Denis Tojaga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+[<img align="left" alt="denza.17 | Portfolio Projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][portfolio]
 
 <br />
 
@@ -45,8 +44,7 @@
 
 <br />
 <br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Denis-Tojaga&color=blueviolet)
+[portfolio]:(https://phuphan13.github.io/)
 [linkedin]:(https://www.linkedin.com/in/phu-phan-02665b209)
 
 
