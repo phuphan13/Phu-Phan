@@ -3,8 +3,7 @@
 
 - 👋 Formerly vacation employee at DCDD Department, Northern Territory Government 
 - 📚 Formerly Business Analyst/Data Analyst at American International Group and Prudential Vietnam plc
-- 📌 2022 Goals: Contribute more and improve my skills
-- ⚡ Fun fact: I'm a 
+- ⚡ Fun fact: Don't know why I am addicted to data
 
 
 # Education
@@ -19,7 +18,7 @@ https://www.linkedin.com/in/phu-phan-02665b209
 # Languages and Tools:
 
 <br />
-<br />
+
 
 
 
