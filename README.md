@@ -1,8 +1,8 @@
 # G'day Mate, glad you are here, I'm Phu  👋
 
 
-- 👋 Formerly vacation employee at DCDD Department, Northern Territory Government 
-- 📚 Formerly Business Analyst/Data Analyst at American International Group and Prudential Vietnam plc
+- 👋 Former vacation employee at DCDD Department, Northern Territory Government 
+- 📚 Former Business Analyst/Data Analyst at American International Group and Prudential Vietnam plc
 - ⚡ Fun fact: Don't know why I am addicted to data
 
 
